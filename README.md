@@ -1,4 +1,4 @@
-# Crypto Exchange Wallet UI Design
+# Crypto UI Design
 
 ## Overview
 
